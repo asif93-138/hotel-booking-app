@@ -1,0 +1,26 @@
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
+.img-rooms {
+  width: 150px;
+  height: 100px;
+}
+.user-img {
+  width: 40px;
+  height: 40px;
+}
+
+
+@media screen and (max-width: 575px) {
+  .grid-container {
+    display: block;
+  }
+  .img-rooms {
+    width: 100%;
+    height: auto;
+  }
+  .w-100-mobile {
+    width: 100% !important;
+  }
+}

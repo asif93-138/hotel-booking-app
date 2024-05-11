@@ -1,0 +1,158 @@
+[
+    {
+        "id" : 1,
+        "name" : "Hotel One", 
+        "place" : "Dhaka",
+        "img" : "https://cdn.britannica.com/96/115096-050-5AFDAF5D/Bellagio-Hotel-Casino-Las-Vegas.jpg",
+        "rooms" : [
+            {
+                "id" : 1,
+                "type" : "Single",
+                "img" : "https://www.hotelmonterey.co.jp/upload_file/monhtyo/stay/sng_600_001.jpg",
+                "price" : 200
+            },
+            {
+                "id" : 2,
+                "type" : "Double",
+                "img" : "https://media.hotel7dublin.com/image/upload/f_auto,g_auto,c_auto,w_3840,q_auto/v1708595213/Uploads/Hotel7/Cosy_Room_Hero_643fdf08b9.jpg",
+                "price" : 380
+            },
+            {
+                "id" : 3,
+                "type" : "Family",
+                "img" : "https://www.princehotels.com/furano/wp-content/uploads/sites/11/2019/06/Family-Room-Furano-Prince-Hotel-1.jpg",
+                "price" : 750
+            }
+        ]
+    },
+    {
+        "id" : 2,
+        "name" : "Hotel Two", 
+        "place" : "Rajshahi",
+        "img" : "https://cdn.britannica.com/96/115096-050-5AFDAF5D/Bellagio-Hotel-Casino-Las-Vegas.jpg",
+        "rooms" : [
+            {
+                "id" : 1,
+                "type" : "Single",
+                "img" : "https://www.hotelmonterey.co.jp/upload_file/monhtyo/stay/sng_600_001.jpg",
+                "price" : 200
+            },
+            {
+                "id" : 2,
+                "type" : "Double",
+                "img" : "https://media.hotel7dublin.com/image/upload/f_auto,g_auto,c_auto,w_3840,q_auto/v1708595213/Uploads/Hotel7/Cosy_Room_Hero_643fdf08b9.jpg",
+                "price" : 380
+            },
+            {
+                "id" : 3,
+                "type" : "Family",
+                "img" : "https://www.princehotels.com/furano/wp-content/uploads/sites/11/2019/06/Family-Room-Furano-Prince-Hotel-1.jpg",
+                "price" : 750
+            }
+        ]
+    },
+    {
+        "id" : 3,
+        "name" : "Hotel Three", 
+        "place" : "Sylhet",
+        "img" : "https://cdn.britannica.com/96/115096-050-5AFDAF5D/Bellagio-Hotel-Casino-Las-Vegas.jpg",
+        "rooms" : [
+            {
+                "id" : 1,
+                "type" : "Single",
+                "img" : "https://www.hotelmonterey.co.jp/upload_file/monhtyo/stay/sng_600_001.jpg",
+                "price" : 200
+            },
+            {
+                "id" : 2,
+                "type" : "Double",
+                "img" : "https://media.hotel7dublin.com/image/upload/f_auto,g_auto,c_auto,w_3840,q_auto/v1708595213/Uploads/Hotel7/Cosy_Room_Hero_643fdf08b9.jpg",
+                "price" : 380
+            },
+            {
+                "id" : 3,
+                "type" : "Family",
+                "img" : "https://www.princehotels.com/furano/wp-content/uploads/sites/11/2019/06/Family-Room-Furano-Prince-Hotel-1.jpg",
+                "price" : 750
+            }
+        ]
+    },
+    {
+        "id" : 4,
+        "name" : "Hotel Four", 
+        "place" : "Khulna",
+        "img" : "https://cdn.britannica.com/96/115096-050-5AFDAF5D/Bellagio-Hotel-Casino-Las-Vegas.jpg",
+        "rooms" : [
+            {
+                "id" : 1,
+                "type" : "Single",
+                "img" : "https://www.hotelmonterey.co.jp/upload_file/monhtyo/stay/sng_600_001.jpg",
+                "price" : 200
+            },
+            {
+                "id" : 2,
+                "type" : "Double",
+                "img" : "https://media.hotel7dublin.com/image/upload/f_auto,g_auto,c_auto,w_3840,q_auto/v1708595213/Uploads/Hotel7/Cosy_Room_Hero_643fdf08b9.jpg",
+                "price" : 380
+            },
+            {
+                "id" : 3,
+                "type" : "Family",
+                "img" : "https://www.princehotels.com/furano/wp-content/uploads/sites/11/2019/06/Family-Room-Furano-Prince-Hotel-1.jpg",
+                "price" : 750
+            }
+        ]
+    },
+    {
+        "id" : 5,
+        "name" : "Hotel Five", 
+        "place" : "Barisal",
+        "img" : "https://cdn.britannica.com/96/115096-050-5AFDAF5D/Bellagio-Hotel-Casino-Las-Vegas.jpg",
+        "rooms" : [
+            {
+                "id" : 1,
+                "type" : "Single",
+                "img" : "https://www.hotelmonterey.co.jp/upload_file/monhtyo/stay/sng_600_001.jpg",
+                "price" : 200
+            },
+            {
+                "id" : 2,
+                "type" : "Double",
+                "img" : "https://media.hotel7dublin.com/image/upload/f_auto,g_auto,c_auto,w_3840,q_auto/v1708595213/Uploads/Hotel7/Cosy_Room_Hero_643fdf08b9.jpg",
+                "price" : 380
+            },
+            {
+                "id" : 3,
+                "type" : "Family",
+                "img" : "https://www.princehotels.com/furano/wp-content/uploads/sites/11/2019/06/Family-Room-Furano-Prince-Hotel-1.jpg",
+                "price" : 750
+            }
+        ]
+    },
+    {
+        "id" : 6,
+        "name" : "Hotel Six", 
+        "place" : "Chittagong",
+        "img" : "https://cdn.britannica.com/96/115096-050-5AFDAF5D/Bellagio-Hotel-Casino-Las-Vegas.jpg",
+        "rooms" : [
+            {
+                "id" : 1,
+                "type" : "Single",
+                "img" : "https://www.hotelmonterey.co.jp/upload_file/monhtyo/stay/sng_600_001.jpg",
+                "price" : 200
+            },
+            {
+                "id" : 2,
+                "type" : "Double",
+                "img" : "https://media.hotel7dublin.com/image/upload/f_auto,g_auto,c_auto,w_3840,q_auto/v1708595213/Uploads/Hotel7/Cosy_Room_Hero_643fdf08b9.jpg",
+                "price" : 380
+            },
+            {
+                "id" : 3,
+                "type" : "Family",
+                "img" : "https://www.princehotels.com/furano/wp-content/uploads/sites/11/2019/06/Family-Room-Furano-Prince-Hotel-1.jpg",
+                "price" : 750
+            }
+        ]
+    }
+]
